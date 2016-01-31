@@ -50,7 +50,7 @@ $(document).ready(function(){
             '<div class="div2" id="div2" >'+
             '</div>';
 
-        Uncomment to get data from Server
+        //Uncomment to get data from Server
         $.ajax({
             type: "GET",
             url: "http://10.128.128.142:8080/snip/data?v=EgqUJOudrcM",
