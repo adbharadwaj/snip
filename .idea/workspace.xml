@@ -34,10 +34,10 @@
       <file leaf-file-name="youtube.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Youtube/youtube.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8064516">
-              <caret line="72" column="82" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="82" />
+            <state vertical-scroll-proportion="0.6451613">
+              <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
               <folding>
-                <marker date="1454219204000" expanded="true" signature="900:1415" placeholder="..." />
+                <marker date="1454222972000" expanded="true" signature="900:1415" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -344,10 +344,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Youtube/youtube.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8064516">
-          <caret line="72" column="82" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="82" />
+        <state vertical-scroll-proportion="0.6451613">
+          <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
           <folding>
-            <marker date="1454219204000" expanded="true" signature="900:1415" placeholder="..." />
+            <marker date="1454222972000" expanded="true" signature="900:1415" placeholder="..." />
           </folding>
         </state>
       </provider>

@@ -50,22 +50,22 @@ $(document).ready(function(){
             '<div class="div2" id="div2" >'+
             '</div>';
 
-        //Uncomment to get data from Server
-        //$.ajax({
-        //    type: "GET",
-        //    url: "http://10.128.128.142:8080/snip/data?v=EgqUJOudrcM",
-        //    success: function(response) {
-        //        if (response && response.twitter) {
-        //            populateTweets(response.twitter);
-        //        }
-        //
-        //    },
-        //    error: function() {
-        //        console.log('Error!!')
-        //    }
-        //});
-        console.log(data);
-        populateTweets(data.twitter);
+        Uncomment to get data from Server
+        $.ajax({
+            type: "GET",
+            url: "http://10.128.128.142:8080/snip/data?v=EgqUJOudrcM",
+            success: function(response) {
+                if (response && response.twitter) {
+                    populateTweets(response.twitter);
+                }
+
+            },
+            error: function() {
+                console.log('Error!!')
+            }
+        });
+        //console.log(data);
+        //populateTweets(data.twitter);
 
 
         function populateTweets(tweets) {
