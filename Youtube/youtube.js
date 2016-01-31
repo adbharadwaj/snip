@@ -70,7 +70,7 @@ $(document).ready(function(){
 
         function populateTweets(tweets) {
             for(var x in tweets) {
-                var tweet = $('p').html(tweets[x].name + ' ' + tweets[x].tweet);
+                var tweet = $('<p>').html(tweets[x].name + ' ' + tweets[x].tweet);
                 $('#div2').append(tweet);
             }
 
